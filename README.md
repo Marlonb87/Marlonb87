@@ -6,7 +6,7 @@ Mestrando em Engenharia de Produção e sistemas na Universidade Federal Flumine
 
 Pós Graduando em Data Science e Analytics na USP/ESALQ.
 
-Recém formado em Data Expert pela DNC Group, buscando uma transição de carreira para a ciência de dados.
+Recém formado em Data Expert pela Escola DNC, buscando uma transição de carreira para a ciência de dados.
 ##
 
 ## Tenho estudado ultimamente 📚  
