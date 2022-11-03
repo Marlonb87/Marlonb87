@@ -47,4 +47,6 @@ Bancos de Dados mySQL e SQL Server;</br>
   </div>
     
   ##
+   
+   ![snake gif](https://github.com/Marlonb87/Marlonb87/blob/output/github-contribution-grid-snake.svg)
   
