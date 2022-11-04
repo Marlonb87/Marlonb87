@@ -2,11 +2,11 @@
 
 Engenheiro Civil formado pela Universidade Estácio de Sá no Rio de Janeiro.
 
-Mestrando em Engenharia de Produção e sistemas na Universidade Federal Fluminense.
+Mestrando em Engenharia de Produção e sistemas computacionais na Universidade Federal Fluminense.
 
 Pós Graduando em Data Science e Analytics na USP/ESALQ.
 
-Recém formado em Data Expert pela Escola DNC, buscando uma transição de carreira para a ciência de dados.
+Recém formado em Data Science Full Stack pela Escola DNC, buscando uma transição de carreira para a área de dados.
 ##
 
 ## Tenho estudado ultimamente 📚  
