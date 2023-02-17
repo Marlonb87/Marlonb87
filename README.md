@@ -6,7 +6,7 @@ Mestrando em Engenharia de Produção e sistemas computacionais na Universidade 
 
 Pós Graduando em Data Science e Analytics na USP/ESALQ.
 
-Recém formado em Data Science Full Stack pela Escola DNC, buscando uma transição de carreira para a área de dados.
+Formado em Data Science Full Stack pela Escola DNC, buscando uma transição de carreira para a área de dados.
 ##
 
 ## Tenho estudado ultimamente 📚  
